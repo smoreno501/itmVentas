@@ -92,7 +92,7 @@ DATABASES = {
     'clients':{
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'gocontroldb', 
-        'USER':'gocontroluserdb',
+        'USER':'gocontroldbuser',
         'PASSWORD':'GBInf^r51Jz7gXtIMntfcoM9r03lL#ET', 
         'HOST': '172.31.84.188', 
         'PORT': '5432',
